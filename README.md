@@ -28,4 +28,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/SabithaAshokKumar/practise/tree/master/0043-multiply-strings) |
+## Array
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/SabithaAshokKumar/practise/tree/master/0088-merge-sorted-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/SabithaAshokKumar/practise/tree/master/0088-merge-sorted-array) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/SabithaAshokKumar/practise/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
